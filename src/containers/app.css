@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cherry+Bomb+One&display=swap');
+
+@font-face {
+  font-family: 'Cherry Bomb';
+  font-style: normal;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+}
